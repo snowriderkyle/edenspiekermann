@@ -1,0 +1,73 @@
+
+
+0.0_master
+
+Make a git repository and clone Bootstrap v4 from Github (don’t use version 3 as it doesn’t
+
+contain a SASS compiler which is what we want to use). This master branch is your base
+
+and will be reused in other assignments. Make sure that you compile your files after each
+
+assignment into the /dist/ folder.
+
+
+
+1.0_starter_kit
+
+Make a branch named ‘1.0_starter_kit’ from the Master branch with the latest Bootstrap v4
+
+version and build a fluid grid system. The page has to be responsive and contain a header,
+
+navigation, sidebar, main section and footer.
+
+For documentation about using Grunt or Sass read Getting Started.
+
+After building a Bootstrap Grid system push your code into your Git repo.
+
+
+
+1.1_prettify
+
+Make a branch named ‘1.1_prettify’ from your ‘1.0_starter_kit’ and make your page pretty.
+
+Reuse your fluid grid system code and search for an interesting article. Rebuild the page
+
+with the Bootstrap Grid system using your article. It is important that you write your own
+
+code. You need to use SASS for styling. The assignment is to make it pretty!
+
+After building the pretty page push your code into your Git repo.
+
+
+
+2.0_formality
+
+Get started with building a form. Use your previous branch ‘1.0_starter_kit’ and build a
+
+form. Use HTML, CSS, jQuery, Javascript, React or Angular to validate your form. You can
+
+decide how many form fields you want to add. Don’t forget about input labels behaviour,
+
+error handling and other form elements. Sending the form is not necessary but a nice to
+
+have!
+
+Some inspiration can be found here and here.
+
+After building the form page push your code into your Git repo.
+
+
+
+3.0_experimenting
+
+DIY and build something awesome! Put everything you know into this assignment.
+
+NOTE – Don’t make it too complex. We just want to see something creative, quirky or fun!
+
+Please push your code into your Git repo and have a drink! You deserved it, well done!
+
+Finished
+
+Send us an email or call +31 20 550 6324.
+
+NOTE – Did you compile all your files into the /dist/ folder?
